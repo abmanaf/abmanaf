@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **fronted and react**
 
-- 📫 How to reach me **abdulmanafaliu414@gmail.com**
+- 📫 How to reach me **abdulmanafaliu414@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
