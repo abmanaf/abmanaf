@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/aliu_manaf" target="blank"><img src="https://img.shields.io/twitter/follow/aliu_manaf?logo=twitter&style=for-the-badge" alt="aliu_manaf"  /></a> </p>
 
-- 🌱 I’m currently learning **REST and RESTFUL api**
+- 🌱 I’m currently learning **REST and RESTful API**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
