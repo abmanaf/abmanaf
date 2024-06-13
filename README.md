@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **frontend projects**
 
 - 💬 Ask me about **fronted and react**
+  
 - 👀 I want to become a **full stack developer**
 - 📫 How to reach me **abdulmanafaliu414@gmail.com** 
 
