@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 <img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="profile" width="300px"/>
 
-<p align="left"> <a href="https://twitter.com/aliu_manaf" target="blank"><img src="https://img.shields.io/twitter/follow/aliu_manaf?logo=twitter&style=for-the-badge" alt="aliu_manaf"  /></a> </p>
+<p align="left"> <a href="https://twitter.com/man_alibaba" target="blank"><img src="https://img.shields.io/twitter/follow/aliu_manaf?logo=twitter&style=for-the-badge" alt="aliu_manaf"  /></a> </p>
 
 
 <!-- - 🌱 I’m currently learning **next.js** -->
