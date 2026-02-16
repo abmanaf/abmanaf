@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **fronted and react**
+- 💬 Ask me about **Fronted, React and Data Analysis**
   
 <!-- - 👀 I'm looking forward to become a **full stack developer** -->
   
