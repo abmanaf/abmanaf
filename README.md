@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alibaba</h1>
-<h3 align="center">A passionate frontend developer and a Data Analyst/Scientist from Ghana</h3>
+<h3 align="center">A passionate frontend developer and a Data Scientist from Ghana</h3>
 <img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="profile" width="300px"/>
 
 <p align="left"> <a href="https://twitter.com/man_alibaba" target="blank"><img src="https://img.shields.io/twitter/follow/aliu_manaf?logo=twitter&style=for-the-badge" alt="aliu_manaf"  /></a> </p>
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **Fronted, React and Data Analysis**
+- 💬 Ask me about **Fronted, React and Data**
   
 <!-- - 👀 I'm looking forward to become a **full stack developer** -->
   
